@@ -20,7 +20,7 @@ By the end of this course, you will be well-versed with the OOP techniques in Py
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for developers with a basic understanding of Python who would like to gain a deeper understanding to OOP with practical solutions to common OOP problems.
+Basic understanding of Python who would like to gain a deeper understanding to OOP with practical solutions to common OOP problems.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Minimum Hardware Requirements
